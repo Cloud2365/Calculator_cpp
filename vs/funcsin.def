@@ -1,0 +1,2 @@
+EXPORTS
+    sin=plugin_sin
