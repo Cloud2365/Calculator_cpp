@@ -1,0 +1,33 @@
+bin/
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pch
+*.ilk
+*.pdb
+*.exe
+*.dll
+*.lib
+*.exp
+*.so
+
+# CMake build directory
+build/
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile

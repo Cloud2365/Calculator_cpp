@@ -1,0 +1,2 @@
+EXPORTS
+    sqrt=plugin_sqrt
